@@ -1,3 +1,3 @@
 # Define the variable board below.
 board = []
-5.times { board << " " }
+9.times { board << " " }
